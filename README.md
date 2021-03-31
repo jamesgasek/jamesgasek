@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 📫 How to reach me: james@gasek.net
+- 
 <!--
 **jamesgasek/jamesgasek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
