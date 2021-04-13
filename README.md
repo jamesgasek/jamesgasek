@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 📫   How to reach me: james@gasek.net
-- 🌱  I’m currently learning C, C++, and JavaScript
-- 🔭  I’m currently working on my website, [jamesgasek.github.io](www.jamesgasek.github.io)
+- 📫   How to reach me: james@gasek.net
+- 🌱  I’m currently learning C, C++, and JavaScript
+- 🔭   I’m currently working on my website, [jamesgasek.github.io](www.jamesgasek.github.io)
 
 <!--
 **jamesgasek/jamesgasek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
