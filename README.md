@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 📫 How to reach me: james@gasek.net
+- 📫  How to reach me: james@gasek.net
+- 🌱 I’m currently learning C, C++, and Web Systems Development
+- 🔭 I’m currently working on my website, [jamesgasek.github.io](www.jamesgasek.github.io)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=jamesgasek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
