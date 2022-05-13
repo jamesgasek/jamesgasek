@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫  How to reach me: james@gasek.net
-- 🔭  I’m currently studying Computer Science & Business at Lehigh University
-- 🔭  In my free time, I'm learning Rust, Swift, and TypeScript
+- 🌱  I’m currently studying Computer Science & Business at Lehigh University
+- 💻  In my free time, I'm learning Rust, Swift, and TypeScript
 - 🔭  I’m currently working on my website, [jamesgasek.github.io](www.jamesgasek.github.io)
 
 
