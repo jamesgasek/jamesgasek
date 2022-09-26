@@ -3,6 +3,7 @@
 - 🌱  I’m currently studying Computer Science & Business at Lehigh University
 - 💻  In my free time, I'm learning Rust, Swift, and TypeScript
 - 🔭  I’m currently working on my website, [jamesgasek.github.io](https://jamesgasek.github.io)
+- Note: Most of my contributions are to private repositories, which is why my contribution count may appear low.
 
 
 <!--
