@@ -2,7 +2,7 @@
 - 📫  How to reach me: james@gasek.net
 - 🌱  I’m currently studying Computer Science & Business at Lehigh University
 - 💻  In my free time, I'm learning Rust, Swift, and TypeScript
-- 🔭  I’m currently working on GymPartner, a companion app for weightlifters. 
+- 🔭  I’m currently working on Loupt, an app for Regulation Crowdfunding. 
 
 
 <!--
