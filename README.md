@@ -3,7 +3,7 @@
 - 🌱  I’m currently studying Computer Science & Business at Lehigh University
 - 💻  In my free time, I'm learning Rust, Swift, and TypeScript
 - 🔭  I’m currently working on Loupt, an app for Regulation Crowdfunding.
-- 🌎  Check out jamesgasek.github.io
+- 🌎    Check out jamesgasek.github.io
 
 
 <!--
