@@ -1,9 +1,8 @@
 ### Hi there 👋
 - 📫  How to reach me: james@gasek.net
-- 🌱  I’m currently studying Computer Science & Business at Lehigh University
 - 💻  In my free time, I'm learning Rust, Swift, and TypeScript
 - 🔭  I’m currently working on Loupt, an app for Regulation Crowdfunding.
-- 🌎  Check out [my website](https://jamesgasek.github.io)
+- 🌎  Check out [my website](https://www.gasek.net)
 
 <!--
 **jamesgasek/jamesgasek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
