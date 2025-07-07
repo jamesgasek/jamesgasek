@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫  How to reach me: james@gasek.net
-- 💻  In my free time, I'm learning Rust, Swift, and TypeScript
+- 💻  In my free time, I'm learning Rust, Swift, and Kotlin
 - 🔭  I’m currently working on Loupt, an app for Regulation Crowdfunding.
 - 🌎  Check out [my website](https://www.gasek.net)
 
